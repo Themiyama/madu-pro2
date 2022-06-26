@@ -6,7 +6,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwhitedevil-bot.yolasite.com&count_bg=%2379C83D&title_bg=%23030303&icon=webauthn.svg&icon_color=%23FFFAFA&title=WEBSITE+VISITORS&edge_flat=false)](https://abuser1.yolasite.com)
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐐𝐔𝐄𝐄𝐍+𝐁𝐈𝐗𝐁𝐘+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐃𝐀𝐑𝐂𝐊+𝐀𝐋𝐏𝐇𝐀+𝐗𝐓𝐄𝐀𝐌;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝗧𝗛𝗘𝗠𝗜𝗬𝗔 𝗺𝗮𝗱𝘂𝘀𝗵𝗮𝗻𝗸𝗮 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗯𝗼𝘁 𝗽𝗿𝗼𝗷𝗲𝗰𝘁)](https://git.io/typing-svg)
 
  </a>
 </p>
