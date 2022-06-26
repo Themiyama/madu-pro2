@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
-global.botname = 'Bixby MD'
-global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
-global.ig = 'https://github.com/darkalphaxteam'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/darkalphaxteam/Queen-Bixby-MD'
-global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
-global.packname = 'Queen Bixby MD'
-global.author = 'Thinura '
+global.owner = ['94710428572']
+global.premium = ['94710428572']
+global.ownernomer = '94710428572'
+global.ownername = 'Themiya madushanka'
+global.botname = 'Maduwa MD'
+global.footer = ' ᴛʜᴇᴍɪʏᴀ ᴍᴀᴅᴜꜱʜᴀɴᴋᴀ 🅼🅳.'
+global.ig = 'https://github.com/Themiyama'
+global.region = 'Srilanka, Western Province, Jaela'
+global.sc = 'https://github.com/Themiyama/madu-pro2/'
+global.myweb = 'https://wa.me/94781190844'
+global.packname = 'Maduwa MD'
+global.author = 'Themiya '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
